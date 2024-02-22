@@ -1,9 +1,0 @@
-SECRET_KEY=1234
-DEBUG=TRUE
-
-# PostgreSQL
-DB_NAME=postgres
-DB_USER=menu
-DB_PASSWORD=password
-DB_PORT=5432
-DB_HOST=localhost
